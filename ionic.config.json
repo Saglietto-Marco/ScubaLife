@@ -1,0 +1,7 @@
+{
+  "name": "projectTBD",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
